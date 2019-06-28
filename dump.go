@@ -1,3 +1,6 @@
+/*
+Package dump is just a dump.
+*/
 package dump
 
 // Version is the version
