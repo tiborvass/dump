@@ -1,4 +1,4 @@
 package dump
 
 // Version is the version
-const Version = "20.09.0"
+const Version = "3.0.0"
