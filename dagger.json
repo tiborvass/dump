@@ -1,0 +1,11 @@
+{
+  "name": "tailsshd",
+  "engineVersion": "v0.21.0-20260417213410-dev-6e6a18036e4e",
+  "toolchains": [
+    {
+      "name": "go",
+      "source": "github.com/dagger/dagger/toolchains/go@main",
+      "pin": "b73df588e830d45f33ff118d4ab96ac3153832b2"
+    }
+  ]
+}
